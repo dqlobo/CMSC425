@@ -31,6 +31,7 @@ From Part I:
 
 New to Part II:
  - A slight under or overrotation of the walls sometimes occurs that is exacerbated over time. I suspect this relates to the deltaTime\*rotation being greater than 90 degrees. I added a fix for this, but the problem still appears sometimes.
+ 
 From Part I:
  - Sometimes, if you catch the ground at a strange angle, the ball can burst through. (This could be a problem with collision detection and speed in Unity, as discussed in lecture.) I have accommodated to this problem by reducing the speed/depth of the tilt. I also played around with making the ground a bouncy material; This made the game more fun, but increased occurrences of the bug.
 
