@@ -7,6 +7,7 @@ Since this project is in the nested repo of an entire semester's projects, it is
 `svn export https://github.com/dqlobo/CMSC425.git/trunk/A1/P2_2`
 
 From there, you can open the `P2_2/A1P2` folder in Unity and open the MainScene found in the `Scenes` folder. 
+
 ------------------------------------------------------------------------
 ##A. Required elements
 
