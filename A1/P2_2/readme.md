@@ -1,11 +1,12 @@
-#Name: David LoBosco
-#Assignment Name: Programming Assignment 1, Part II
+###Name: David LoBosco
+#Assignment Name: Programming Assignment I, Part II
 
-##Download instructions:
+#Download instructions:
 Since this project is in the nested repo of an entire semester's projects, it is more practical to download via svn:
 
 `svn export https://github.com/dqlobo/CMSC425.git/trunk/A1/P2_2`
 
+From there, you can open the `P2_2/A1P2` folder in Unity and open the MainScene found in the `Scenes` folder.
  
 *The format of this document comes from a post on Piazza here: https://piazza.com/class/ixyg5h0fpdg2r4?cid=16*
 ------------------------------------------------------------------------
