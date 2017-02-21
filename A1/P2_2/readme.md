@@ -6,9 +6,7 @@ Since this project is in the nested repo of an entire semester's projects, it is
 
 `svn export https://github.com/dqlobo/CMSC425.git/trunk/A1/P2_2`
 
-From there, you can open the `P2_2/A1P2` folder in Unity and open the MainScene found in the `Scenes` folder.
- 
-*The format of this document comes from a post on Piazza here: https://piazza.com/class/ixyg5h0fpdg2r4?cid=16*
+From there, you can open the `P2_2/A1P2` folder in Unity and open the MainScene found in the `Scenes` folder. 
 ------------------------------------------------------------------------
 ##A. Required elements
 
@@ -44,3 +42,5 @@ Unity Roll-a-Ball tutorial: https://unity3d.com/learn/tutorials/projects/roll-ba
 Unity Documentation: https://docs.unity3d.com/ScriptReference/Rigidbody.MoveRotation.html
 
 wood texture: https://freestocktextures.com/texture/closeup-wood-grain-plank,315.html
+
+*The format of this document comes from a post on Piazza here: https://piazza.com/class/ixyg5h0fpdg2r4?cid=16*
