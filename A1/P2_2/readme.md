@@ -1,5 +1,5 @@
 ###Name: David LoBosco
-#Assignment Name: Programming Assignment I, Part II
+###Assignment Name: Programming Assignment I, Part II
 
 #Download instructions:
 Since this project is in the nested repo of an entire semester's projects, it is more practical to download via svn:
